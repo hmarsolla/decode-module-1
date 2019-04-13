@@ -1,0 +1,9 @@
+Ex. 1 => Média entre notas.
+
+Ex. 2 => Calculadora Básica entre dois números (Soma, Subtração, Multiplicação, Divisão)
+
+Ex. 3 => Converter de Graus Celsius para Graus Farenheit
+
+   C          F - 32
+-------  =  ---------
+   5            9

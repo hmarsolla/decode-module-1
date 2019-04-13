@@ -1,0 +1,10 @@
+x = int(input("Qual é o primeiro número? "))
+y = int(input("Qual é o segundo número? "))
+
+print(f"{x} > {y} :", x > y)
+print(f"{x} < {y} :", x < y)
+print(f"{x} >= {y} :", x >= y)
+print(f"{x} <= {y} :", x <= y)
+print(f"{x} == {y} :", x == y)
+print(f"{x} != {y} :", x != y)
+print(f"Operador Not de {x} > {y}:", (not x > y))
